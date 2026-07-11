@@ -1,16 +1,38 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**Kamvangqakababa-Analyst/Kamvangqakababa-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Final-year BCom Economics student at the University of Limpopo
+* 📊 Aspiring Economic Analyst & Data Analyst
+* 🌍 Based in South Africa 🇿🇦
+* 📚 Currently learning Python, SQL, Microsoft Excel, Power BI, and Data Analytics
+* 🌱 Passionate about economics, econometrics, and using data to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* SQL (Beginner)
+* Data Cleaning
+* Data Visualization
+* Economic Analysis
+* Econometrics
+* Statistics
+* Research & Analytical Thinking
+
+---
+
+## 🌱 Currently Learning
+
+* Python
+* Microsoft Excel
+* Power BI
+* Data Analytics
+* Git & GitHub 
+
+---
+
+## Social accounts
+
+* LinkeIn - https://www.linkedin.com/in/KamvaNgqakababa
+* Email - kamvangqakababa4@gmail.com
+* Portfolio - https://kamva-analytics-hub.lovable.app/#projects
+
