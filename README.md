@@ -10,7 +10,8 @@
 
 ## 🛠️ Skills
 
-* SQL (Beginner)
+* SQL
+* Miro ( brainstorming)
 * Data Cleaning
 * Data Visualization
 * Economic Analysis
