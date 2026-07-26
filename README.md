@@ -33,7 +33,7 @@
 
 ## Social accounts
 
-* LinkeIn - https://www.linkedin.com/in/KamvaNgqakababa
+* LinkeIn - https://www.linkedin.com/in/kamva-ngqakababa-726a80347?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * Email - kamvangqakababa4@gmail.com
 * Portfolio - https://kamva-analytics-hub.lovable.app/#projects
 
